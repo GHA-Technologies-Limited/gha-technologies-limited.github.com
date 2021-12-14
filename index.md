@@ -1,3 +1,9 @@
+---
+permalink: /
+title: Welcome
+
+---
+
 ## AUTOMATING BUSINESSES NATIONWIDE
 
 GHA Technologies is Providing you with the suitable tools to help your business succeed!
