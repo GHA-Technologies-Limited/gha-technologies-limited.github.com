@@ -3,3 +3,11 @@ description: providing you with the suitable tools to help your business succeed
 author: "Joseph Godwin Kimani"
 
 theme: jekyll-theme-minimal
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
