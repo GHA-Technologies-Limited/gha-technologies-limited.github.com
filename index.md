@@ -6,7 +6,7 @@ title: Welcome
 
 ## AUTOMATING BUSINESSES NATIONWIDE
 
-GHA Technologies is Providing you with the suitable tools to help your business succeed!
+GHA Technologies is providing you with the suitable tools to help your business succeed!
 
 ### Our Services
 
